@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/Kmfjf6G/schoenes-leben-der-frau-im-garten-arbeitend-in-der-natur.jpg",
+        "title": "The Art of Programming",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/whm1JwL/che-34554-640.png",
+        "posted_date": "2023-09-13",
+        "reading_time": 10,
+        "hashtags": [
+            "programming",
+            "coding",
+            "development"
+        ]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/xCdRnN5/leben-erschaffen-sein-gleichgewicht-geist-leben-1.jpg",
+        "title": "Exploring Artificial Intelligence",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/whm1JwL/che-34554-640.png",
+        "posted_date": "2023-09-12",
+        "reading_time": 9,
+        "hashtags": [
+            "AI",
+            "machine learning",
+            "technology"
+        ]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/Ms3g9vc/reise-expedition-ziel-reise-reise.jpg",
+        "title": "Cooking with Chef Mia",
+        "author": "Mia Johnson",
+        "author_img": "https://i.ibb.co/whm1JwL/che-34554-640.png",
+        "posted_date": "2023-09-11",
+        "reading_time": 15,
+        "hashtags": [
+            "cooking",
+            "recipes",
+            "food"
+        ]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/Ms3g9vc/reise-expedition-ziel-reise-reise.jpg",
+        "title": "Traveling the World on a Budget",
+        "author": "David Lee",
+        "author_img": "https://i.ibb.co/whm1JwL/che-34554-640.png",
+        "posted_date": "2023-09-10",
+        "reading_time": 12,
+        "hashtags": [
+            "travel",
+            "adventure",
+            "budget"
+        ]
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/Ms3g9vc/reise-expedition-ziel-reise-reise.jpg",
+        "title": "Fitness for a Healthy Lifestyle",
+        "author": "Emily Davis",
+        "author_img": "https://i.ibb.co/whm1JwL/che-34554-640.png",
+        "posted_date": "2023-09-09",
+        "reading_time": 7,
+        "hashtags": [
+            "fitness",
+            "health",
+            "wellness"
+        ]
+    }
+]
